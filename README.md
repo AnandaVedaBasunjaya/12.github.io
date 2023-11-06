@@ -24,6 +24,21 @@ Universitas Negeri Surabaya
    
 ![image](https://github.com/D4ManajemenInformatika/final-project-website-pemweb10_mic/assets/120777302/a6d7a8b6-7038-4f40-b770-e5055717f413)
 
+    C. Tampilan Website
+
+![image](https://github.com/AnandaVedaBasunjaya/13.github.io/assets/120777302/d8873d9c-8c6d-44de-aff9-053e44c67bf3)
+
+![image](https://github.com/AnandaVedaBasunjaya/13.github.io/assets/120777302/083d7e50-2478-4ca3-8629-bcc5b15bdb11)
+
+![image](https://github.com/AnandaVedaBasunjaya/13.github.io/assets/120777302/272fa22d-7d9e-441c-8cfe-254779f75f61)
+
+![image](https://github.com/AnandaVedaBasunjaya/13.github.io/assets/120777302/645a5711-20c4-4f25-8d31-2d7a2d1b5b5f)
+
+![image](https://github.com/AnandaVedaBasunjaya/13.github.io/assets/120777302/ff86142e-a20d-4f19-9a6c-0817411b0ecf)
+
+![image](https://github.com/AnandaVedaBasunjaya/13.github.io/assets/120777302/a76ef87d-0bad-4ccc-8d44-d13c8409c283)
+
+
 3. Penjelasan Code
    A. Html
 
