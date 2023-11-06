@@ -44,10 +44,11 @@ Contact page berisi kontak dari kami yang berisi alamat, sosial media, dan telep
 
 ![image](https://github.com/AnandaVedaBasunjaya/13.github.io/assets/120777302/ff86142e-a20d-4f19-9a6c-0817411b0ecf)
 
-
+Form log in yang kami buat berisi email dan password. Dengan log in, pengguna dapat memperoleh tawaran menarik dari kami, seperti potongan harga, atau bonus-bonus lainnya. Mereka juga mendapat kesempatan sebagai member prlanggan produk kami. Halaman log in juga digunakan untuk mengautentikasi pengguna, memeriksa identitas pengguna dengan mengonfirmasi bahwa mereka adalah pemilik akun yang sah.
 
 ![image](https://github.com/AnandaVedaBasunjaya/13.github.io/assets/120777302/a76ef87d-0bad-4ccc-8d44-d13c8409c283)
 
+Form regristrasi digunakan bagi pengguna yang belum memiliki akun di situs web kami untuk membuat akun baru. Mereka dapat memasukkan informasi pribadi seperti nama, alamat email, kata sandi, dan repeat kata sandi.
 
 3. Penjelasan Code
    A. Html
