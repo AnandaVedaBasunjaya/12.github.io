@@ -28,9 +28,15 @@ Universitas Negeri Surabaya
 
 ![image](https://github.com/AnandaVedaBasunjaya/13.github.io/assets/120777302/d8873d9c-8c6d-44de-aff9-053e44c67bf3)
 
+Welcome page. Berisi sambutan selamat datang untuk pengguna yang mengunjungi website. Welcome page menampilkan logo atau ikon merek beserta judul dari website kami. Terdapat juga deskripsi produk dari kami, yakni Si Cakies beserta kelebihan produk kami.
+
 ![image](https://github.com/AnandaVedaBasunjaya/13.github.io/assets/120777302/083d7e50-2478-4ca3-8629-bcc5b15bdb11)
 
+Menu page. Berisi berbagai menu yang kami tawarkan pada penjualan kami. Mulai dari nama produk, gambar produk, deskripsi produk, serta harga produk dari menu yang kami tawarkan.
+
 ![image](https://github.com/AnandaVedaBasunjaya/13.github.io/assets/120777302/272fa22d-7d9e-441c-8cfe-254779f75f61)
+
+Order page. Berisi pilihan partner kami yang siap membantu dalam proses delivery order. Disini kami memiliki 3 partner, yakni shopeefood, gofood, dan grabfood. Jika mengklik logo partner, maka pengguna akan langsung beralih pada halaman partner.
 
 ![image](https://github.com/AnandaVedaBasunjaya/13.github.io/assets/120777302/645a5711-20c4-4f25-8d31-2d7a2d1b5b5f)
 
