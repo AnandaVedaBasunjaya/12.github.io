@@ -40,7 +40,11 @@ Order page. Berisi pilihan partner kami yang siap membantu dalam proses delivery
 
 ![image](https://github.com/AnandaVedaBasunjaya/13.github.io/assets/120777302/645a5711-20c4-4f25-8d31-2d7a2d1b5b5f)
 
+Contact page berisi kontak dari kami yang berisi alamat, sosial media, dan telepon. Contact page ini berfungsi agar pengunjung untuk menghubungi pemilik situs web atau perusahaan dengan cara yang mudah,  tempat utama di mana pelanggan dapat mengajukan pertanyaan, melaporkan masalah, atau meminta bantuan, serta dapat berfungsi sebagai saluran untuk peluang bisnis, seperti permintaan penawaran harga, kerjasama, atau pertanyaan seputar iklan dan mitra.
+
 ![image](https://github.com/AnandaVedaBasunjaya/13.github.io/assets/120777302/ff86142e-a20d-4f19-9a6c-0817411b0ecf)
+
+
 
 ![image](https://github.com/AnandaVedaBasunjaya/13.github.io/assets/120777302/a76ef87d-0bad-4ccc-8d44-d13c8409c283)
 
